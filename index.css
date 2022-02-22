@@ -1,0 +1,105 @@
+* {
+    font-family: Roboto Mono;
+}
+h1 {
+    font-family: Chelsea Market;
+    font-size: 3em;
+    margin-top: 0em;
+}
+h2 {
+    font-size: 1em;
+    margin-bottom: 2em;
+}
+section {
+    display: block;
+    text-align: center;
+}
+header, header nav {
+    margin-top: 2em;
+    text-align: center;
+    margin-bottom: 4em;
+}
+a.plan {
+    background-color: #FF764E;
+}
+a.learn {
+    background-color: #5ed3eb;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+a.involve {
+    background-color: #ffcd69;
+}
+header a, footer a {
+    color: white;
+    padding: 0.8em;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+header a:hover, footer a:hover {
+    color: black;
+}
+
+.left {
+    display: inline-block;
+    text-align: center;
+}
+.intro {
+    text-align: center;
+    height: auto;
+    margin-bottom: 4em;
+}
+.intro img {
+    display: inline-block;
+    height: 15em;
+    width: 100%;
+    border-radius: 50%;
+}
+.right {
+    display: inline-block;
+    text-align: center;
+    margin-left: 2em;
+}
+.desc {
+    text-align: center;
+    color: white;
+    background-color: #ddb9a3;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+.desc p {
+    margin-top: 0em;
+}
+.fire {
+    text-align: center;
+}
+.fire p, .lodge p {
+    margin-left: 25em;
+    margin-right: 25em;
+    text-align: center;
+}
+.fire img {
+    height: 10em;
+    padding-bottom: 1em;
+}
+.lodge {
+    text-align: center;
+    margin-bottom: 7em;
+}
+.lodge img {
+    height: 13em;
+}
+footer {
+    text-align: center;
+    background-color: #f9e7dc;
+    padding-bottom: 2em;
+}
+footer img {
+    width: 100%;
+    height: 20em;
+    padding-bottom: 2em;
+}
+
